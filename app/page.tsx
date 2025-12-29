@@ -22,8 +22,8 @@ export default function Home() {
               <div
                 className="relative w-full h-full"
                 style={{
-                  maskImage: 'radial-gradient(ellipse 80% 65% at 50% 40%, black 30%, transparent 75%)',
-                  WebkitMaskImage: 'radial-gradient(ellipse 80% 65% at 50% 40%, black 30%, transparent 75%)',
+                  maskImage: 'radial-gradient(ellipse 100% 70% at 50% 40%, black 40%, transparent 80%)',
+                  WebkitMaskImage: 'radial-gradient(ellipse 100% 70% at 50% 40%, black 40%, transparent 80%)',
                 }}
               >
                 <Image src="/images/1.jpg" alt="Farid Asgarli" fill className="object-cover object-top" priority />
